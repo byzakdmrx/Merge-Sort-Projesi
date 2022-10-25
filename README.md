@@ -17,3 +17,5 @@ O(nlogn)
 Toplam işlem sayımız altı olduğu için n=6.
 
 Dolayısıyla O(6*log6) 
+
+http://www.patika.dev/
